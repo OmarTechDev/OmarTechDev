@@ -108,4 +108,4 @@
 
 ![And some beautiful](https://media.licdn.com/dms/image/D5616AQGKJm6p4rp7fQ/profile-displaybackgroundimage-shrink_350_1400/0/1678115524085?e=1705536000&v=beta&t=fDC3H-R3nJRNb7VLE3QyuWegyCvLIGVkzly4oNsR-LQ)
 
-<p style="text-align: right; color: #000fff; padding: 10px;">Version 0.0.3</p>
+<p style="text-align: right; color: #000fff; padding: 10px;">Version 0.0.4</p>
