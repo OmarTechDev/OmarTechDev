@@ -5,7 +5,7 @@
 <h3 align="center">I am Omar Oporto a professinal developer from Bolivia</h3>
 <br>
 
-- 👨‍💻 My current portfolio is available at [https://delicate-lake-5083.fly.dev/](https://delicate-lake-5083.fly.dev/). (You can find my email and phone number there.)
+- 👨‍💻 My current portfolio is available at [https://delicate-lake-5083.fly.dev/](https://delicate-lake-5083.fly.dev/). (You can find my email and phone number there.) (Apr 2023 version available)
 
 <br/>
 
